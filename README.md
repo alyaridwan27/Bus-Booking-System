@@ -25,3 +25,6 @@ MySQL: The MySQL database is used to store and retrieve booking information.
 ## Note
 - Make sure to set up the MySQL database connection before running the application. Update the database credentials in the code if required.
 - The application assumes a single bus with a fixed number of seats. Modify the code for multiple buses or dynamic seat allocation as per your requirements.
+
+## Demo Video
+Link: https://drive.google.com/file/d/1_-SfDA8aHcPSnr9aHQCCowyGXeeshMto/view?usp=sharing
