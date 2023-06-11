@@ -12,6 +12,9 @@ Java: The application is developed using Java programming language.
 Swing: The GUI components are built using Swing, a Java GUI toolkit.
 MySQL: The MySQL database is used to store and retrieve booking information.
 
+## UML Class Diagram
+![busbooking uml](https://github.com/alyaridwan27/Bus-Booking-System/assets/114371692/b9687c99-faca-41fd-bcf7-da6890a932ff)
+
 ## How to use
 1. Launch the application.
 2. Select a date to check seat availability.
