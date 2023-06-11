@@ -13,7 +13,7 @@ Swing: The GUI components are built using Swing, a Java GUI toolkit.
 MySQL: The MySQL database is used to store and retrieve booking information.
 
 ## UML Class Diagram
-![busbooking uml](https://github.com/alyaridwan27/Bus-Booking-System/assets/114371692/b9687c99-faca-41fd-bcf7-da6890a932ff)
+![uml oop](https://github.com/alyaridwan27/Bus-Booking-System/assets/114371692/bea9fd7f-c331-44c7-bd05-7089cf7450d7)
 
 ## How to use
 1. Launch the application.
