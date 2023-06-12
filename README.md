@@ -8,9 +8,9 @@ The Bus Booking System is a Java-based application that facilitates the booking 
 - Data Persistence: The system stores booking information in a database for future reference.
 
 ## Technologies Used
-Java: The application is developed using Java programming language.
-Swing: The GUI components are built using Swing, a Java GUI toolkit.
-MySQL: The MySQL database is used to store and retrieve booking information.
+- Java: The application is developed using Java programming language.
+- Swing: The GUI components are built using Swing, a Java GUI toolkit.
+- MySQL: The MySQL database is used to store and retrieve booking information.
 
 ## UML Class Diagram
 ![uml oop](https://github.com/alyaridwan27/Bus-Booking-System/assets/114371692/bea9fd7f-c331-44c7-bd05-7089cf7450d7)
